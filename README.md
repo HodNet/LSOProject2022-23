@@ -46,4 +46,4 @@
 
 Copy the "GuessTheWord.apk" file into a smartphone with at least the "Nougat" version of Android (sdk > 24). The target version of the app is "Upside Down Cake" (sdk 34). Then just open it and install it.
 
-* **Note:** Ensure that all clients are connected to the same router which the server is connected to.
+* **Note:** Ensure that all clients are connected to the same router which the server is connected to. Choose a router with minimal firewall protection; otherwise, multicast connection might fail.
