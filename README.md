@@ -6,17 +6,17 @@
 
 2. Pull the latest postgres image via Docker Desktop or via command line:
 
-```docker pull postgres```
+    ```docker pull postgres```
 
 3. Run the container of our database:
 
-```docker-compose -f database-docker-compose.yml up```
+    ```docker-compose -f database-docker-compose.yml up```
 
 Finished! Now every time you need to stop or run again the container use:
 
-```docker stop lsodb```
+    ```docker stop lsodb```
 
-```docker start lsodb```
+    ```docker start lsodb```
 
 **Running the server**
 
@@ -24,15 +24,15 @@ Finished! Now every time you need to stop or run again the container use:
 
 2. give it execution permission:
 
-```bash
-chmod +x Server.o
-```
+    ```bash
+    chmod +x Server.o
+    ```
 
 3. run it:
 
-```bash
-./Server.o
-```
+    ```bash
+    ./Server.o
+    ```
 
 **Running the App**
 
