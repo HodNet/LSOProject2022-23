@@ -12,7 +12,7 @@
 
     ```docker-compose -f database-docker-compose.yml up```
 
-Finished! Now every time you need to stop or run again the container use:
+* Finished! Now every time you need to stop or run again the container use:
 
     ```docker stop lsodb```
 
