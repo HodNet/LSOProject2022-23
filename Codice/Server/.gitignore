@@ -1,0 +1,12 @@
+/build
+/CMakeFiles
+Makefile
+CMakeCache.txt
+cmake_install.cmake
+.vscode
+.gitpod.yml
+lib/*
+CPackConfig.cmake
+CPackSourceConfig.cmake
+LSOProject
+```
