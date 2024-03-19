@@ -6,17 +6,25 @@
 
 2. Pull the latest postgres image via Docker Desktop or via command line:
 
-    ```docker pull postgres```
+    ```bash
+    docker pull postgres
+    ```
 
 3. Run the container of our database:
 
-    ```docker-compose -f database-docker-compose.yml up```
+    ```bash
+    docker-compose -f database-docker-compose.yml up
+    ```
 
 * Finished! Now every time you need to stop or run again the container use:
 
-    ```docker stop lsodb```
+    ```bash
+    docker stop lsodb
+    ```
 
-    ```docker start lsodb```
+    ```bash
+    docker start lsodb
+    ```
 
 **Running the server**
 
